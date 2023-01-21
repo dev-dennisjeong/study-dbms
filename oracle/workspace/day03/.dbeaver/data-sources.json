@@ -6,7 +6,6 @@
 			"driver": "oracle_thin",
 			"name": "localhost",
 			"save-password": true,
-			"read-only": true,
 			"configuration": {
 				"host": "localhost",
 				"port": "1521",
